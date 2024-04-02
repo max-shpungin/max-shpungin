@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! I'm Max Shpungin 
+
+A software engineer with a background in digital analytics.
+
+I love building cool things, my cat 😻, and my wife.
+
+not necessarily in that order.
 
 <!--
 **max-shpungin/max-shpungin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
